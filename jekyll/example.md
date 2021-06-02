@@ -1,10 +1,10 @@
 ---
 layout: photo_set
-title: Photo
-permalink: /photo/
+title: Example
+permalink: /example/
 description: "An example photo gallery."
 
 photos:
-    set: photo
+    set: example
     size: 1
 ---
