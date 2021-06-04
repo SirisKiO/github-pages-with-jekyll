@@ -6,8 +6,6 @@ description: > # this means to ignore newlines until "baseurl:"
 
 # social links
 github_username:  SirisKiO  
-steam_username: REGRET
-reddit_username: AbsoluteDemonicFront
 
 show_excerpts: true # set to false to remove excerpts on the homepage
 
